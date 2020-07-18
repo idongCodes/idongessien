@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> [twitter](https://twitter.com/idngessnio) | [&#102;](https://linkedin.com/in/idongessien) | [dev](https://dev.to/idngessnio) | [medium](https://medium.com/@idngessnio) | [idngessn.io](https://idngessn.io)
+> [twitter](https://twitter.com/idngessnio) | [](https://linkedin.com/in/idongessien) | [dev](https://dev.to/idngessnio) | [medium](https://medium.com/@idngessnio) | [idngessn.io](https://idngessn.io)
