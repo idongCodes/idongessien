@@ -2,8 +2,7 @@
       "<style type='text/css'>
 a { text-decoration: none; }
 a:hover { color: red; }
-</style>"
-)
+</style>")
 
 ### Hi there 👋
 
