@@ -1,6 +1,6 @@
 ## 👋 So, get a load of this... 
 > ![profile image][profile-img]
-#### I'm going to talk about myself in third person (I can't decide whether I prefer TPP or FPP in COD Mobile btw 🤔). But anyway, this handsome fellas name is Idongesit Essien, pronounced ee-dung-eh-sit eh-syen, Idong (ee-dung) for short - TNTFIU 😅.  
+#### ```I'm going to talk about myself in third person, (I can't decide whether I prefer TPP or FPP in COD Mobile btw 🤔). But anyway, see this guy? This handsome fella's name is Idongesit Essien, pronounced ee-dung-eh-sit eh-syen, Idong (ee-dung) for short - TNTFIU 😅. He was born to Nigerian 🇳🇬 parents - beautiful parents, very hardworkers, God bless 'em. Long story short, I'm here now. Myspace introduced me to `coding 👨‍💻`, peaked an interest but I didn't pursue it, practically forgot about it. Went to school```  
 
 <!--
 **idongessien/idongessien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
