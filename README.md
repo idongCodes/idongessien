@@ -22,4 +22,4 @@ Here are some ideas to get you started:
   <li>[idngessn.io](https://idngessn.io)</li>
 </ul>
 
-> &copy;
+> Copyright &copy; idngessn.io. All rights reserved.
