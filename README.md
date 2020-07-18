@@ -15,8 +15,10 @@ Okay, long story short, I'm here now. Myspace introduced me to `coding 👨‍�
 - 😓 I’m currently learning `how to curb Imposter Syndrome`
 - 🤭 I’m looking to collaborate on `curbing Imposter Syndrome`
 - 🤐 I’m looking for help with `Lol...`
-### 🥴
+### 🥴 🥴 🥴 
 - 🤗 How about a fun fact? `I will never own another Automatic Transmission Vehicle #HashtagStickShiftGang ?`
+
+### Social Media ‼️
 
 [![twitter icon][twitter-icon]][twitter] &ensp; [![linkedin icon][linkedin-icon]][linkedin] &ensp; [![dev icon][dev-icon]][dev] &ensp; [![medium icon][medium-icon]][medium] &ensp; [![portfolio site][portsite-icon]][portsite]
 
