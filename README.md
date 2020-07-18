@@ -1,9 +1,3 @@
-(setq markdown-xhtml-header-content
-      "<style type='text/css'>
-a { text-decoration: none; }
-a:hover { color: red; }
-</style>")
-
 ### Hi there 👋
 
 <!--
@@ -20,5 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<hr />
-> [twitter](https://twitter.com/idngessnio) | [(66 30 38 63)](https://linkedin.com/in/idongessien) | [dev](https://dev.to/idngessnio) | [medium](https://medium.com/@idngessnio) | [idngessn.io](https://idngessn.io)
+
+> [![twitter icon][twitter-icon]][twitter] &ensp; [![linkedin icon][linkedin-icon]][linkedin] &ensp; [dev](https://dev.to/idngessnio) &ensp; [medium](https://medium.com/@idngessnio) &ensp; [idngessn.io](https://idngessn.io)
+
+<!-- social media -->
+[twitter]: http://www.twitter.com/idngessnio
+[twitter-icon]: https://i.imgur.com/YeP9ifH.png?1
+
+[linkedin]: https://linkedin.com/in/idongessien
+[linkedin-icon]: https://i.imgur.com/c10Yeew.png?3
+
+
+
