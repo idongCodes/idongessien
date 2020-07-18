@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> [![twitter icon][twitter-icon]][twitter] &ensp; [![linkedin icon][linkedin-icon]][linkedin] &ensp; [dev](https://dev.to/idngessnio) &ensp; [medium](https://medium.com/@idngessnio) &ensp; [idngessn.io](https://idngessn.io)
+> [![twitter icon][twitter-icon]][twitter] &ensp; [![linkedin icon][linkedin-icon]][linkedin] &ensp; [![dev icon][dev-icon]][dev] &ensp; [![medium icon][medium-icon]][medium] &ensp; [![portfolio site][portsite-icon]][portsite]
 
 <!-- social media -->
 [twitter]: http://www.twitter.com/idngessnio
@@ -24,5 +24,11 @@ Here are some ideas to get you started:
 [linkedin]: https://linkedin.com/in/idongessien
 [linkedin-icon]: https://i.imgur.com/c10Yeew.png?3
 
+[dev]: https://dev.to/idngessnio
+[dev-icon]: https://i.imgur.com/m9s1otB.png?1
 
+[medium]: https://medium.com/@idngessnio
+[medium-icon]: https://i.imgur.com/6yT77w0.png?1
 
+[portsite]: https://idngessn.io
+[portsite-icon]: https://i.imgur.com/FMjiBzI.jpg?1
