@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 [medium](https://medium.com/@idngessnio)
 [idngessn.io](https://idngessn.io)
 
-> ** [twitter](https://twitter.com/idngessnio)
+> *[twitter](https://twitter.com/idngessnio)*
