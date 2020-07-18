@@ -9,7 +9,7 @@
 
 ##### Okay, long story short, I'm here now. Myspace introduced me to `coding 👨‍💻`, peaked an interest but I didn't pursue it, practically forgot about it. Went to high school, still neglected it 🤷‍♂️. Got into Uni, read Comp Sci (because I didn't know what else to pick 😅). It was hard, I gave up, went to work, midlife crisis 😩, went back to college ✊ - `NEIT` - loved it, graduated, didn't apply myself 🙄, forgot all I learned, went to work, midlife crisis 😩, went back to Uni! Read Comp Sci again, nearly finished ✊, then life 🙄 🥺. 
 
-##### NOW, I'm a student/interning at Lambda School, I want to be a Software Eng., because somewhere along the line a fire was lit in me and the thought of pursuing a career where I can code things to life just refused to leave my mind. Its hard, but, I'm loving every minute of it as much as I'm hating every minute of it.   
+##### >> NOW, I'm a student/interning at Lambda School, I want to be a Software Eng., because somewhere along the line a fire was lit in me and the thought of pursuing a career where I can code things to life just refused to leave my mind. Its hard, but, I'm loving every minute of it as much as I'm hating every minute of it.   
 
 <!--
 **idongessien/idongessien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
