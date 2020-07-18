@@ -1,7 +1,7 @@
 ## 👋 Okay, so get a load of this... 
 > ![profile image][profile-img]
 
-First off, I can't decide whether I prefer TPP or FPP in COD Mobile 📱 🎮 btw 🤔.
+First off 🤔, I can't decide whether I prefer TPP or FPP in COD Mobile 📱 🎮.
 
 But anyway, see this guy? This handsome fella's name is _Idongesit Essien_, pronounced _ee-dung-eh-sit eh-syen_, Idong (ee-dung) for short - TNTFIU 😅. He was born to Nigerian 🇳🇬 parents - beautiful parents, very hardworkers, God bless 'em. 
 
