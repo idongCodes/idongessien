@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<hr />
 > [twitter](https://twitter.com/idngessnio) | [(66 30 38 63)](https://linkedin.com/in/idongessien) | [dev](https://dev.to/idngessnio) | [medium](https://medium.com/@idngessnio) | [idngessn.io](https://idngessn.io)
