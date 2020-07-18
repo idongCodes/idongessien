@@ -1,3 +1,10 @@
+(setq markdown-xhtml-header-content
+      "<style type='text/css'>
+a { text-decoration: none; }
+a:hover { color: red; }
+</style>"
+)
+
 ### Hi there 👋
 
 <!--
@@ -15,4 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> [twitter](https://twitter.com/idngessnio) | [](https://linkedin.com/in/idongessien) | [dev](https://dev.to/idngessnio) | [medium](https://medium.com/@idngessnio) | [idngessn.io](https://idngessn.io)
+> [twitter](https://twitter.com/idngessnio) | [(66 30 38 63)](https://linkedin.com/in/idongessien) | [dev](https://dev.to/idngessnio) | [medium](https://medium.com/@idngessnio) | [idngessn.io](https://idngessn.io)
