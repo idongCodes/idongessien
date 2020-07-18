@@ -1,5 +1,5 @@
-## ✌️ So, get a load of this... 
-hgjhghjgjh | ![profile image][profile-img]
+## 👋 So, get a load of this... 
+### I'm going to talk about myself in third person (I can't decide whether I prefer TPP or FPP in COD Mobile btw 🤔) | ![profile image][profile-img]
 
 <!--
 **idongessien/idongessien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
