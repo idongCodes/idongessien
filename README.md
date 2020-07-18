@@ -1,5 +1,6 @@
 ## 👋 So, get a load of this... 
-### I'm going to talk about myself in third person (I can't decide whether I prefer TPP or FPP in COD Mobile btw 🤔) | ![profile image][profile-img]
+> ![profile image][profile-img]
+### I'm going to talk about myself in third person (I can't decide whether I prefer TPP or FPP in COD Mobile btw 🤔)
 
 <!--
 **idongessien/idongessien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![profile image][profile-img]
 
 [![twitter icon][twitter-icon]][twitter] &ensp; [![linkedin icon][linkedin-icon]][linkedin] &ensp; [![dev icon][dev-icon]][dev] &ensp; [![medium icon][medium-icon]][medium] &ensp; [![portfolio site][portsite-icon]][portsite]
 
