@@ -18,6 +18,8 @@ Okay, long story short, I'm here now. Myspace introduced me to `coding 👨‍�
 ### 🥴 🥴 🥴 
 - 🤗 How about a fun fact? `I will never own another Automatic Transmission Vehicle #HashtagStickShiftGang ?`
 
+***
+
 ### Social Media ‼️
 
 [![twitter icon][twitter-icon]][twitter] &ensp; [![linkedin icon][linkedin-icon]][linkedin] &ensp; [![dev icon][dev-icon]][dev] &ensp; [![medium icon][medium-icon]][medium] &ensp; [![portfolio site][portsite-icon]][portsite]
