@@ -3,7 +3,7 @@
 
 First off 🤔, I can't decide whether I prefer TPP or FPP in COD Mobile 📱 🎮.
 
-But anyway, see this guy? This handsome fella's name is _Idongesit Essien_, pronounced _ee-dung-eh-sit eh-syen_, Idong (ee-dung) for short - TNTFIU 😅. He was born to Nigerian 🇳🇬 parents - beautiful parents, very hardworkers, God bless 'em. 
+But anyway, see this guy? This handsome fella's name is **Idongesit Essien**, pronounced **ee-dung-eh-sit eh-syen**, Idong (ee-dung) for short - TNTFIU 😅. He was born to Nigerian 🇳🇬 parents - beautiful parents, very hardworkers, God bless 'em. 
 
 
 Okay, long story short, I'm here now. Myspace introduced me to `coding 👨‍💻`, peaked an interest but I didn't pursue it, practically forgot about it. Went to high school, still neglected it 🤷‍♂️. Got into Uni, read Comp Sci (because I didn't know what else to pick 😅). It was hard, I gave up, went to work, midlife crisis 😩, went back to college ✊ - `NEIT` - loved it, graduated, didn't apply myself 🙄, forgot all I learned, went to work, midlife crisis 😩, went back to Uni! Read Comp Sci again, nearly finished ✊, then life 🙄 🥺. 
