@@ -14,8 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![profile image][profile-img]]
 
 [![twitter icon][twitter-icon]][twitter] &ensp; [![linkedin icon][linkedin-icon]][linkedin] &ensp; [![dev icon][dev-icon]][dev] &ensp; [![medium icon][medium-icon]][medium] &ensp; [![portfolio site][portsite-icon]][portsite]
+
+copyright &copy; 2020 idong essien
+
+<!-- profile image -->
+[profile-img]: https://i.imgur.com/Prul0c7.png
 
 <!-- social media -->
 [twitter]: http://www.twitter.com/idngessnio
