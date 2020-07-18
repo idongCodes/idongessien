@@ -10,20 +10,13 @@ Okay, long story short, I'm here now. Myspace introduced me to `coding 👨‍�
 
 #### NOW, I'm a student/interning at Lambda School, I want to be a Software Eng., because somewhere along the line a fire was lit in me and the thought of pursuing a career where I can code things to life just refused to leave my mind. Its hard, but, I'm loving every minute of it AND hating every minute of it 😂. Will be sure to keep you all updated ✌️.   
 
-<!--
-**idongessien/idongessien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### So...
 - 😬 I’m currently working on `curbing Imposter Syndrome`
 - 😓 I’m currently learning `how to curb Imposter Syndrome`
 - 🤭 I’m looking to collaborate on `curbing Imposter Syndrome`
 - 🤐 I’m looking for help with `Lol...`
--  Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- 🤗 Fun fact: I will never own another Automatic Transmission Vehicle #HashtagStickShiftGang ?
--->
+### 🥴
+- 🤗 How about a fun fact? `I will never own another Automatic Transmission Vehicle #HashtagStickShiftGang ?`
 
 [![twitter icon][twitter-icon]][twitter] &ensp; [![linkedin icon][linkedin-icon]][linkedin] &ensp; [![dev icon][dev-icon]][dev] &ensp; [![medium icon][medium-icon]][medium] &ensp; [![portfolio site][portsite-icon]][portsite]
 
