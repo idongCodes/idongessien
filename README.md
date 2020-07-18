@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 copyright &copy; 2020 idong essien
 
 <!-- profile image -->
-[profile-img]: https://i.imgur.com/Prul0c7.png
+[profile-img]: https://i.imgur.com/Prul0c7.png?1
 
 <!-- social media -->
 [twitter]: http://www.twitter.com/idngessnio
