@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<ul>
+  <li>[twitter](https://twitter.com/idngessnio)</li>
+  <li>[linkedin](https://linkedin.com/in/idongessien)</li>
+  <li>[dev](https://dev.to/idngessnio)</li>
+  <li>[medium](https://medium.com/@idngessnio)</li>
+  <li>[idngessn.io](https://idngessn.io)</li>
+</ul>
+
+> &copy
