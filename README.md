@@ -1,6 +1,3 @@
-## 👋 Okay, so get a load of this... 
-> ![profile image][profile-img]
-
 Since January ‘20 I’ve gained over five thousand hours of remote experience, developing web apps and solving problems with code. I am passionate and eager to become significantly versed in various programming languages, web frameworks and best practices. LinkedIn and Twitter have been my go to, to regularly network and engage with others in the developer community, and to stay updated on new developer related best practices, tech, software and other information. Mental health is important to me so I make sure to step away from my computer, often finding myself taking long walks or going for a drive with my doggo. If you're a fan of manual transmission cars, I started driving my first one Feb 2017, a 2016 Hyundai Veloster - I will never own an automatic vehicle again. Also a big fan of COD Mobile!
 
 ### I am...
@@ -15,15 +12,15 @@ Since January ‘20 I’ve gained over five thousand hours of remote experience,
 
 ### Social Media:
 
-[![twitter icon][twitter-icon]][twitter] &ensp; [![linkedin icon][linkedin-icon]][linkedin] &ensp; [![dev icon][dev-icon]][dev] &ensp; [![medium icon][medium-icon]][medium] &ensp; [![portfolio site][portsite-icon]][portsite]
+[![email icon][email-icon]][email] &ensp; [![twitter icon][twitter-icon]][twitter] &ensp; [![linkedin icon][linkedin-icon]][linkedin] &ensp; [![dev icon][dev-icon]][dev] &ensp; [![medium icon][medium-icon]][medium] &ensp; [![portfolio site][portsite-icon]][portsite]
 
 copyright &copy; 2020 idong essien
 
-<!-- profile image -->
-[profile-img]: https://i.imgur.com/qymk69y.png?2
+<!-- social media & contact -->
+[email]: mailto:i.d.essien@gmail.com
+[email-icon]: https://i.imgur.com/5YxDy89.png
 
-<!-- social media -->
-[twitter]: http://www.twitter.com/idngessnio
+[twitter]: https://twitter.com/iessiendev
 [twitter-icon]: https://i.imgur.com/YeP9ifH.png?1
 
 [linkedin]: https://linkedin.com/in/idongessien
@@ -35,7 +32,7 @@ copyright &copy; 2020 idong essien
 [medium]: https://medium.com/@idngessnio
 [medium-icon]: https://i.imgur.com/6yT77w0.png?1
 
-[portsite]: https://idngessn.io
+[portsite]: https://tinyurl.com/iessiendev
 [portsite-icon]: https://i.imgur.com/FMjiBzI.jpg?1
 
 <!-- Lambda link -->
