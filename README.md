@@ -1,19 +1,16 @@
 
 ### Hi, Welcome to my GitHub!
 
-Since January ‘20 I’ve gained over five thousand hours of remote experience, developing web apps and solving problems with code. I am passionate and eager to become significantly versed in various programming languages, web frameworks and best practices. LinkedIn and Twitter have been my go to, to regularly network and engage with others in the developer community, and to stay updated on new developer related best practices, tech, software and other information. Mental health is important to me so I make sure to step away from my computer, often finding myself taking long walks or going for a drive with my doggo. If you're a fan of manual transmission cars, I started driving my first one Feb 2017, a 2016 Hyundai Veloster - I will never own an automatic vehicle again. Also a big fan of COD Mobile!
+Since January ‘20 I’ve gained over five thousand hours of remote experience, developing web apps and solving problems with code. I am passionate and eager to connect with others in this community and to become significantly versed in various programming languages, web frameworks and best practices.
 
 ### I am...
-- 😬 I’m currently working on `curbing Imposter Syndrome`
-- 😓 I’m currently learning `how to curb Imposter Syndrome`
-- 🤭 I’m looking to collaborate on `curbing Imposter Syndrome`
-- 🤐 I’m looking for help with `Lol...`
-### 🥴 🥴 🥴 
-- 🤗 How about a fun fact? `I will never own another Automatic Transmission Vehicle #HashtagStickShiftGang ?`
+  • working on my personal portfolio
+  • I’m currently learning `how to curb Imposter Syndrome`
+  • I’m looking to collaborate on `curbing Imposter Syndrome`
+  
+***
 
 [![email icon][email-icon]][email] &ensp; [![twitter icon][twitter-icon]][twitter] &ensp; [![linkedin icon][linkedin-icon]][linkedin] &ensp; [![dev icon][dev-icon]][dev] &ensp; [![medium icon][medium-icon]][medium] &ensp; [![portfolio site][portsite-icon]][portsite]
-
-***
 
 <!-- social media & contact -->
 [email]: mailto:i.d.essien@gmail.com
