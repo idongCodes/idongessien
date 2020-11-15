@@ -1,5 +1,5 @@
 
-### Hi, Welcome to my GitHub!
+### Hi 👋 I'm Idong!
 
 Since January ‘20 I’ve gained over five thousand hours of remote experience, developing web apps and solving problems with code. I am passionate and eager to connect with others in this community and to become significantly versed in various programming languages, web frameworks and best practices.
 
