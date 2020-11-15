@@ -18,7 +18,7 @@ copyright &copy; 2020 idong essien
 
 <!-- social media & contact -->
 [email]: mailto:i.d.essien@gmail.com
-[email-icon]: https://i.imgur.com/5YxDy89.png
+[email-icon]: https://i.imgur.com/5YxDy89.png?3
 
 [twitter]: https://twitter.com/iessiendev
 [twitter-icon]: https://i.imgur.com/YeP9ifH.png?1
