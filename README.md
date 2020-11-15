@@ -10,11 +10,9 @@ Since January ‘20 I’ve gained over five thousand hours of remote experience,
 
 ***
 
-### Contact & Social Media:
+### Contact & Social Media
 
 [![email icon][email-icon]][email] &ensp; [![twitter icon][twitter-icon]][twitter] &ensp; [![linkedin icon][linkedin-icon]][linkedin] &ensp; [![dev icon][dev-icon]][dev] &ensp; [![medium icon][medium-icon]][medium] &ensp; [![portfolio site][portsite-icon]][portsite]
-
-copyright &copy; 2020 idong essien
 
 <!-- social media & contact -->
 [email]: mailto:i.d.essien@gmail.com
