@@ -1,16 +1,9 @@
 ## 👋 Okay, so get a load of this... 
 > ![profile image][profile-img]
 
-First off 🤔, I can't decide whether I prefer TPP or FPP in COD Mobile 📱 🎮.
+Since January ‘20 I’ve gained over five thousand hours of remote experience, developing web apps and solving problems with code. I am passionate and eager to become significantly versed in various programming languages, web frameworks and best practices. LinkedIn and Twitter have been my go to, to regularly network and engage with others in the developer community, and to stay updated on new developer related best practices, tech, software and other information. Mental health is important to me so I make sure to step away from my computer, often finding myself taking long walks or going for a drive with my doggo. If you're a fan of manual transmission cars, I started driving my first one Feb 2017, a 2016 Hyundai Veloster - I will never own an automatic vehicle again. Also a big fan of COD Mobile!
 
-But anyway, see this guy? This handsome fella's name is **Idongesit Essien**, pronounced **ee-dung-eh-sit eh-syen**, Idong (ee-dung) for short - TNTFIU 😅. He was born to Nigerian 🇳🇬 parents - beautiful parents, very hardworkers, God bless 'em. 
-
-
-Okay, long story short, I'm here now. Myspace introduced me to `coding 👨‍💻`, peaked an interest but I didn't pursue it, practically forgot about it. Went to high school, still neglected it 🤷‍♂️. Got into Uni, read Comp Sci (because I didn't know what else to pick 😅). It was hard, I gave up, went to work, midlife crisis 😩, went back to college ✊ - `NEIT` - loved it, graduated, didn't apply myself 🙄, forgot all I learned, went to work, midlife crisis 😩, went back to Uni! Read Comp Sci again, nearly finished ✊, then life 🙄 🥺. 
-
-#### NOW, I'm a student/interning at [Lambda School], I want to be a Software Eng., because somewhere along the line a fire was lit in me and the thought of pursuing a career where I can code things to life just refused to leave my mind. Its hard, but, I'm loving every minute of it AND ~~hating~~ every minute of it 😂. Will be sure to keep you all updated ✌️.   
-
-### So...
+### I am...
 - 😬 I’m currently working on `curbing Imposter Syndrome`
 - 😓 I’m currently learning `how to curb Imposter Syndrome`
 - 🤭 I’m looking to collaborate on `curbing Imposter Syndrome`
@@ -20,7 +13,7 @@ Okay, long story short, I'm here now. Myspace introduced me to `coding 👨‍�
 
 ***
 
-### Social Media ‼️
+### Social Media:
 
 [![twitter icon][twitter-icon]][twitter] &ensp; [![linkedin icon][linkedin-icon]][linkedin] &ensp; [![dev icon][dev-icon]][dev] &ensp; [![medium icon][medium-icon]][medium] &ensp; [![portfolio site][portsite-icon]][portsite]
 
