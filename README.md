@@ -4,9 +4,9 @@
 Since January ‘20 I’ve gained over five thousand hours of remote experience, developing web apps and solving problems with code. I am passionate and eager to connect with others in this community and to become significantly versed in various programming languages, web frameworks and best practices.
 
 ### Folow me as I...
-- Work on my [personal portfolio][https://tinyurl.com/iessiendev] project
-- I’m currently learning `how to curb Imposter Syndrome`
-- I’m looking to collaborate on `curbing Imposter Syndrome`
+- Work on my **[personal portfolio](https://tinyurl.com/iessiendev)** project
+- Share updates about my coding journey on **[Twitter](https://twitter.com/iessiendev)** and **[Linked](https://linkedin.com/in/idongessien)**
+- Pursue my dream to become a **Full-Stack Software Engineer**, currently focused on learning; *JavaScript, Python, their librariries and frameworks*
   
 ***
 
