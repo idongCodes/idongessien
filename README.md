@@ -28,7 +28,7 @@ Since January ‘20 I’ve gained over five thousand hours of remote experience,
 [medium]: https://medium.com/@idngessnio
 [medium-icon]: https://i.imgur.com/6yT77w0.png?1
 
-[portsite]: https://tinyurl.com/iessiendev
+[portsite]: https://iessiendev.netlify.app/
 [portsite-icon]: https://i.imgur.com/FMjiBzI.jpg?1
 
 <!-- Lambda link -->
