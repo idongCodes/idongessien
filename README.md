@@ -10,7 +10,7 @@ Since January ‘20 I’ve gained 12+ months of full-time, remote, experience de
   
 ### Contact & Platforms
 
-[![email icon][email-icon]][email] &ensp; [![twitter icon][twitter-icon]][twitter] &ensp; [![linkedin icon][linkedin-icon]][linkedin] &ensp; [![dev icon][dev-icon]][dev] &ensp; [![medium icon][medium-icon]][medium] &ensp; [![portfolio site][portsite-icon]][portsite]
+[![email icon][email-icon]][email] &ensp; [![twitter icon][twitter-icon]][twitter] &ensp; [![linkedin icon][linkedin-icon]][linkedin] &ensp; [![dev icon][dev-icon]][dev] &ensp; [![medium icon][medium-icon]][medium]
 
 <!-- social media & contact -->
 [email]: mailto:i.d.essien@gmail.com
@@ -27,9 +27,6 @@ Since January ‘20 I’ve gained 12+ months of full-time, remote, experience de
 
 [medium]: https://medium.com/@idngessnio
 [medium-icon]: https://i.imgur.com/6yT77w0.png?1
-
-[portsite]: https://iessiendev.netlify.app/
-[portsite-icon]: https://i.imgur.com/FMjiBzI.jpg?1
 
 <!-- Lambda link -->
 [Lambda School]: https://lambdaschool.com
