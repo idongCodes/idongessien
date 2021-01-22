@@ -1,12 +1,12 @@
 
 ### Hi 👋 I'm Idong!
 
-Since January ‘20 I’ve gained over five thousand hours of remote experience, developing web apps and solving problems with code. I am passionate and eager to connect with others in this community and to become significantly versed in various programming languages, web frameworks and best practices.
+Since January ‘20 I’ve gained 12+ months of full-time, remote, experience developing landing pages, creating single page React applications, building back-ends, making network requests to APIs, traversing binary trees, and working in cross functional teams of 6+ engineers - including front and back-end devs, data science devs, and team leads. I can say with pride that I've come so far! Excited to both continue learning and to see what lies ahead on my journey to landing my first Software Engineering position!
 
-### Folow me as I...
-- Work on my **[personal portfolio](https://iessiendev.netlify.app/)** project
-- Share updates about my coding journey on **[Twitter](https://twitter.com/iessiendev)** and **[LinkedIn](https://linkedin.com/in/idongessien)**
-- Pursue my dream to become a **Full-Stack Software Engineer**, currently focused on learning; *JavaScript, Python, their librariries and frameworks*
+### Folow me ...
+- While I work on my **[personal portfolio](https://iessiendev.netlify.app/)** project
+- As I share updates about my engineering journey on **[Twitter](https://twitter.com/iessiendev)** and **[LinkedIn](https://linkedin.com/in/idongessien)**
+- If you are a fan of dogs, manual transmission cars, and Call of Duty: Mobile!
   
 ### Contact & Platforms
 
