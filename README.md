@@ -8,10 +8,6 @@ Since January ‘20 I’ve gained 12+ months of full-time, remote, experience de
 - As I share updates about my engineering journey on **[Twitter](https://twitter.com/iessiendev)** and **[LinkedIn](https://linkedin.com/in/idongessien)**
 - If you are a fan of dogs, manual transmission cars, and Call of Duty: Mobile!
   
-[![lambda cert][lambda-cert]]
-
-[lambda-cert]: https://drive.google.com/file/d/13sYshKExNMZZUjcSk2YZvMpBKfxvYVSI/view?usp=drivesdk
-  
 ### Contact & Platforms
 
 [![email icon][email-icon]][email] &ensp; [![twitter icon][twitter-icon]][twitter] &ensp; [![linkedin icon][linkedin-icon]][linkedin] &ensp; [![dev icon][dev-icon]][dev] &ensp; [![medium icon][medium-icon]][medium]
