@@ -1,6 +1,6 @@
 
 ### Hi 👋 I'm Idong!
-A recent grad from Lambda School's Full-Stack Web Development and Computer Science curriculum in which I gained experience in;
+A recent grad from Bloom Tech's Software Engineering curriculum in which I gained experience in;
 - Front-end technologies - HTML5, CSS3(LESS, SASS), Styled Components, JavaScript, React(.js), and Redux
 - Back-end technologies - Node(.js), Python, Express(.js), SQL and basic Assembly Language 
 - And participated in several cross-functional teams of up to 7 engineers including; front-end developers, back-end developers, data scientists, and team leads
@@ -19,7 +19,7 @@ I am open to work so feel free to contact me about collaborating or career oppor
 [![email icon][email-icon]][email] &ensp; [![twitter icon][twitter-icon]][twitter] &ensp; [![linkedin icon][linkedin-icon]][linkedin] &ensp; [![dev icon][dev-icon]][dev] &ensp; [![medium icon][medium-icon]][medium]
 
 <!-- social media & contact -->
-[email]: mailto:idong@essien.dev
+[email]: mailto:i.d.essien@gmail.com
 [email-icon]: https://i.imgur.com/5YxDy89.png?3
 
 [twitter]: https://twitter.com/idongcodes
@@ -35,4 +35,4 @@ I am open to work so feel free to contact me about collaborating or career oppor
 [medium-icon]: https://i.imgur.com/6yT77w0.png?1
 
 <!-- Lambda link -->
-[Lambda School]: https://lambdaschool.com
+[Bloom Tech]: https://www.bloomtech.com/
